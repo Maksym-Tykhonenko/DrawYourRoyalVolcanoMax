@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "c7d907722af4fb845ab97d515bb414f29651f000"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "4656e40419da86a5fec473ea8e7fc0efef183f05"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Bold.ttf",
+      "sha1": "632e6cea171b276e5dd1f13b152c702fbf562cee"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Heavy.ttf",
+      "sha1": "bfc75c545dbe2a8c7c3d6d6223e42aaa5ccb9432"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Medium.ttf",
+      "sha1": "3b8df618cd23e83843b16a8a32de1ddc9de44df4"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "src/assets/fonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSans-Black.ttf",
+      "sha1": "0618565c9a5dba3238ed938f8ff05b1c03867560"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSans-Bold.ttf",
+      "sha1": "80c8144783da3bc511197dbae635968c9cb5c80f"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSans-ExtraBold.ttf",
+      "sha1": "301b85e90bd3b357801900a1e3c79ff5d2d140b6"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSans-Light.ttf",
+      "sha1": "14c163f469ad0c35a8dbdc6688a6d2e6c2c9d56d"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSans-Medium.ttf",
+      "sha1": "2155afa05f0b0909631b36e014b7fb4fa581994f"
+    },
+    {
+      "path": "src/assets/fonts/SofiaSans-Regular.ttf",
+      "sha1": "c199eaa05a73884964fb33ff88100b62d8294f89"
+    }
+  ]
+}
